@@ -59,4 +59,5 @@ int main()
 
     std :: cout << "Factorial of "<< no << " is "<< fac << "\n";
     return 0;
+  
 }
